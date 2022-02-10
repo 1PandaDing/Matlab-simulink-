@@ -1,0 +1,19 @@
+SIMFILE
+FILEBASE D:\Carsim数据库3\Runs\Run_156f89d3-b2ec-47de-9023-1f262e81452e
+INPUT D:\Carsim数据库3\Runs\Run_156f89d3-b2ec-47de-9023-1f262e81452e_all.par
+ECHO D:\Carsim数据库3\Runs\Run_156f89d3-b2ec-47de-9023-1f262e81452e_echo.par
+FINAL D:\Carsim数据库3\Runs\Run_156f89d3-b2ec-47de-9023-1f262e81452e_end.par
+LOGFILE D:\Carsim数据库3\Runs\Run_156f89d3-b2ec-47de-9023-1f262e81452e_log.txt
+ERDFILE D:\Carsim数据库3\Runs\Run_156f89d3-b2ec-47de-9023-1f262e81452e.erd
+ANIFILE D:\Carsim数据库3\runs\animator.par
+PROGDIR C:\Program Files (x86)\CarSim2016.1_Prog\
+RESOURCEDIR C:\Program Files (x86)\CarSim2016.1_Prog\Resources\
+DATADIR D:\Carsim数据库3\
+GUI_REFRESH_V CarSim_RefreshEvent_9572
+PRODUCT_ID CarSim
+PRODUCT_VER 2016.1
+VEHICLE_CODE i_i
+EXT_MODEL_STEP 0.0010
+PORTS_IMP 1,4
+PORTS_EXP 1,8
+END
