@@ -4,3 +4,6 @@
 其中chapter.cpar为carsim参数文件
 chap——36.m为simulink文件
 Reftra2.mat为由轨迹点生成的航向角
+
+详细请见知乎专栏
+https://zhuanlan.zhihu.com/p/465956057
